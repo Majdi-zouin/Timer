@@ -11,7 +11,7 @@ class Timer extends Component {
             
                 <h1>00:30:00</h1>
                 <h3>Hour Minute Second</h3>    
-            </div>
+        </div>
 
         </div>)
     }
